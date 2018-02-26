@@ -1,4 +1,5 @@
 # SIMADL Dataset
+Simulated Activities of Daily Living Dataset
 
 [Download Classification Dataset](docs/datasets/openshs-classification.tar.gz)
 
