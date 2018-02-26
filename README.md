@@ -1,4 +1,4 @@
-# Datasets
+# SIMADL Dataset
 
 [Download Classification Dataset](docs/datasets/openshs-classification.tar.gz)
 
